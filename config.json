@@ -1,0 +1,4 @@
+{
+  "train_data":  "snli_1.0_train.jsonl",
+  "test_data": "snli_1.0_test.jsonl"
+}
